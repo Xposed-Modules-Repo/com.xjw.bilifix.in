@@ -1,10 +1,15 @@
 # BiliFix White
 
+[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.xjw.bilifix.in/total)](https://github.com/xiaojiuwo233/BiliFix/releases/latest)
+[![stars](https://img.shields.io/github/stars/xiaojiuwo233/BiliFix?label=Stars)](https://github.com/xiaojiuwo233/BiliFix)
+
 哔哩哔哩国际版（白版）已经停更并下架一段时间，app内部分功能已失效。本模块目的是修复一些当前无法正常的功能，同时增加一些本地化功能，满足日常使用。
 
 > 自用模块，不保证其稳定性，欢迎各位大佬贡献！
 
 ## [项目地址](https://github.com/xiaojiuwo233/BiliFix)
+
+### 如果本模块对你有所帮助，欢迎点个[Star](https://github.com/xiaojiuwo233/BiliFix)，十分感谢！
 
 ## 兼容性
 
@@ -26,11 +31,17 @@
 
 - 为部分图片分享菜单 添加系统分享按钮
 - 评论区和用户主页显示用户 IP 属地
+- 获取由b站自动生成的视频字幕资源（自动生成与自动翻译）
 
 ## 已知问题
 
-- 新版专栏下 评论区图片无法正常显示
+- 新版专栏下 评论区图片无法正常显示（可进入评论详情查看）
 - 部分用户首次进入专栏可能会提示错误，重进即可恢复
+
+## 反馈
+
+如果你在使用过程中遇到问题，欢迎在[issue](https://github.com/xiaojiuwo233/BiliFix/issues/new)中提出。
+注意，发送前务必包含必要的复现步骤和日志，否则issue将会被关闭。
 
 ## 许可证
 
